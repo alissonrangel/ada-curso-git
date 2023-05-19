@@ -22,4 +22,4 @@
 - git push origin master
 - git pull
 - git fetch // para verificar quais as modificações foram feitas antes de fazer um pull
-  - git diff origin/master
+  - git diff origin/main
