@@ -13,3 +13,6 @@
 - git commit -m "add subitem"
 
 ## git log e git restore
+- git log
+- na área de Modified: git restore <name> // retorna o arquivo para antes de ser alterado - Unmodified
+- na área de Staged: git restore --staged <name> // retorna para área de Modified
