@@ -16,3 +16,10 @@
 - git log
 - na área de Modified: git restore <name> // retorna o arquivo para antes de ser alterado - Unmodified
 - na área de Staged: git restore --staged <name> // retorna para área de Modified
+  
+## git push
+- git remote
+- git push origin master
+- git pull
+- git fetch // para verificar quais as modificações foram feitas antes de fazer um pull
+  - git diff origin/master
